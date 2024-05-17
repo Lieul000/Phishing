@@ -43,7 +43,7 @@ Try to be appealing and to put a sense of emergency to get the target to click. 
 
 5- create a campaign and check if it is successfull.
 
-![Alt text](file:///Users/Julienne/Downloads/image.webp)
+![](file:///Users/Julienne/Downloads/image.webp)
 
 
 And you're done !
